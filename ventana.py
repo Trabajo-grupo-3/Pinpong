@@ -31,7 +31,3 @@ def main():
         pygame.time.Clock().tick(FPS)
 
     pygame.quit()
-
-
-if __name__ == "__main__":
-    main()
