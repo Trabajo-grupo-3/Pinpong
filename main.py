@@ -5,6 +5,7 @@ import reiniciar
 import raqueta
 import movimientoR
 import golperaqueta
+import raquetaordenador
 
 if __name__ == "__main__":
-    golperaqueta.main()
+    raquetaordenador.main()
