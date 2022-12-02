@@ -9,4 +9,6 @@ import raquetaordenador
 import puntuacion
 
 if __name__ == "__main__":
+    golperaqueta.main()
+    raquetaordenador.main()
     puntuacion.main()
